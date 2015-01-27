@@ -11,6 +11,6 @@ setLayoutparams不起作用，但是你滑动一次之后，就起作用了。�
 Fragment不是默认的Fragment，而是通过replace或者add的方式切换的。如果这样描述还不清楚，请多尝试。
 
 来一张效果图吧，没搞好gif图片，就看静态的吧
-
+![截图](./ViewPageSlide/screenshot/device-2015-01-27-171839.png)
 
 
